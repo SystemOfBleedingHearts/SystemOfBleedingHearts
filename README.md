@@ -1,32 +1,12 @@
-![](https://files.catbox.moe/1sezan.gif)
+<p align="center"><img src="https://files.catbox.moe/nd7xc3.gif" width="20%"><img src="https://files.catbox.moe/3mpjko.png" width="30%"><img src="https://files.catbox.moe/nd7xc3.gif" width="20%">
 
-
-<p align="center">$\color{#ff0072}{\Large\textsf{HELLO!!!!}}$</p><p
-
-
-<p align="center">$\color{#ff0072}{\large\textsf{WE R THE SYSTEM OF BLEEDING HEARTS :D, WE ARE A MEDICALLY RECOGNIZED DID SYSTEM, WE ARE A MINOR,}}$</p><p
-<p align="center">$\color{#ff0072}{\large\textsf{WE WILL NOT AIR OUR ANY OTHER DISORDERS FOR SAFETY REASONS.}}$</p><p
-                                                                                                                     
+<br>
+<br>
+  <table>
+    <tr>
+      <td>
+     <p align="center">
+       $\color{#ff2f8e}{\textsf{H}}\color{#ff9e4c}{\textsf{E}}\color{#ffd600}{\textsf{L}}\color{#66df48}{\textsf{L}}\color{#6a77dd}{\textsf{O}}\color{#9803ce}{\textsf{!}}$<br>
+        
 <p align="center">
-  <img src="https://files.catbox.moe/sb0sjy.gif">
-</p>
-
-<p align="center">$\color{#ff0072}{\large\textsf{BYI:}}$</p><p
-<p align="center">$\color{#ff0072}{\large\textsf{1. WE ARE GENERALLY VERY SENSITIVE}}$</p><p
-<p align="center">$\color{#ff0072}{\large\textsf{2. WE INT WITH PROSHIPPERS AND DARKSHIPPPERS}}$</p><p
-<p align="center">$\color{#ff0072}{\large\textsf{3. WE LOVE SOCIALIZING AND TALKING}}$</p><p
-
-<p align="center">
-  <img src="https://files.catbox.moe/sb0sjy.gif">
-</p>
-
-<p align="center">$\color{#ff0072}{\large\textsf{DNI:}}$</p><p
-<p align="center">$\color{#ff0072}{\large\textsf{1.ENDOGENICS}}$</p><p
-<p align="center">$\color{#ff0072}{\large\textsf{2.RADQUEERS}}$</p><p
-<p align="center">$\color{#ff0072}{\large\textsf{3.MOST BASIC DNI CRITERIA!}}$</p><p
-
-<p align="center">
-  <img src="https://files.catbox.moe/sb0sjy.gif">
-</p>
-
-<p align="center">$\color{#ff0072}{\large\textsf{PLZZ TALK 2 US, WE LUVV MAKING FRIENDS}}$</p><p
+WIP...
