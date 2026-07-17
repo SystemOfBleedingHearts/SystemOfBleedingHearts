@@ -15,9 +15,11 @@
 
 <p></p>
 <p></p>
-<p align="left"><img src="https://files.catbox.moe/3tjtxp.gif" width="25%"> OUU SHII
+<p align="left"><img src="https://files.catbox.moe/3tjtxp.gif" width="25%"> 
 
 [SpikedSxdism](https://github.com/SpikedSxdism)
 
 [JACE](https://github.com/fleshburn)
+
+  <p align="center">$\color{#ff2f8e}{\textsf{HHHH}}$
 <p align="right"><img src="https://files.catbox.moe/xmu6j9.png" width="20%">
